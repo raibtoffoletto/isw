@@ -53,14 +53,14 @@ export function parseQuantity(quantity: string | number): string {
   const _n = Number(quantity);
 
   switch (true) {
-    case _n > 1_000_000_000:
-      return `${(_n / 1_000_000_000).toFixed(1)} B`;
+    case _n > (10 ^ 9):
+      return `${(_n / (10 ^ 9)).toFixed(1)} B`;
 
-    case _n > 1_000_000:
-      return `${(_n / 1_000_000).toFixed(1)} M`;
+    case _n > (10 ^ 6):
+      return `${(_n / (10 ^ 6)).toFixed(1)} M`;
 
-    case _n > 1_000:
-      return `${(_n / 1_000).toFixed(1)} K`;
+    case _n > (10 ^ 3):
+      return `${(_n / (10 ^ 3)).toFixed(1)} K`;
 
     default:
       return `${_n.toFixed(1)}`;
