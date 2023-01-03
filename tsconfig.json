@@ -1,0 +1,16 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "baseUrl": ".",
+    "paths": {
+      "@api": ["./src/lib/api.ts"],
+      "@components/*": ["./src/components/*"],
+      "@constants": ["./src/lib/constants.ts"],
+      "@helpers": ["./src/lib/helpers.ts"],
+      "@router/*": ["./src/lib/router/*"],
+      "@store": ["./src/lib/store.tsx"],
+      "@views/*": ["./src/views/*"]
+    }
+  }
+}

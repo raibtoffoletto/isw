@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg5"
+   xml:space="preserve"
+   inkscape:export-filename="bitmap.png"
+   inkscape:export-xdpi="1200"
+   inkscape:export-ydpi="1200"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4895062"
+     inkscape:cx="221.54994"
+     inkscape:cy="226.92085"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
+     id="defs2" /><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"><text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:'Star Jedi Hollow';-inkscape-font-specification:'Star Jedi Hollow Italic';fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:1.5;stroke-opacity:1"
+       x="23.293404"
+       y="64.825821"
+       id="text1004"><tspan
+         sodipodi:role="line"
+         id="tspan1002"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:'Star Jedi Logo DoubleLine1';-inkscape-font-specification:'Star Jedi Logo DoubleLine1 Italic';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5"
+         x="23.293404"
+         y="64.825821" /></text><g
+       id="g1890"
+       transform="translate(0,-1.5673003)"><text
+         xml:space="preserve"
+         style="font-style:italic;font-size:49.2426px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Italic';fill:none;fill-opacity:0;stroke:#ffffff;stroke-width:1.09051"
+         x="6.0351105"
+         y="89.209396"
+         id="text236"><tspan
+           sodipodi:role="line"
+           id="tspan234"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Star Jedi Hollow';-inkscape-font-specification:'Star Jedi Hollow';fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:1.09051;stroke-opacity:1"
+           x="6.0351105"
+           y="89.209396">iSW</tspan></text><g
+         id="g1514"
+         transform="matrix(0.12085238,0,0,0.12085238,31.771483,13.013404)"
+         style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-opacity:1">
+	<path
+   d="M 7.42,145.986 C 9.185,99.193 32.899,56.035 76.25,27.516 c 0.128,0.048 1.251,-0.361 0.738,0.61 -3.434,3.184 -65.172,76.114 -8.344,133.68 0,0 29.858,28.704 53.011,1.468 0,0 22.847,-29.577 -0.289,-74.413 0,0 -5.856,-14.64 -26.955,-23.721 l 16.992,-18.748 c 0,0 14.359,6.161 25.478,22.871 0,0 0.593,-17.593 -12.884,-36.34 l 26.345,-29.89 26.08,29.609 c 0,0 -11.993,16.991 -12.876,36.902 0,0 8.191,-13.477 25.776,-23.151 l 16.686,18.748 c 0,0 -16.045,5.287 -26.794,23.529 -9.242,16.902 -16.357,53.05 0.416,75.223 0,0 18.772,26.618 51.792,-1.571 0,0 60.712,-54.399 -6.226,-133.048 0,0 -3.658,-3.233 0.449,-1.476 29.586,21.54 65.012,49.946 68.67,120.837 -1.444,85.966 -59.012,147.334 -143.074,147.334 C 68.934,295.968 4.95,227.283 7.42,145.986"
+   id="path1512"
+   style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-opacity:1" />
+</g></g></g></svg>
